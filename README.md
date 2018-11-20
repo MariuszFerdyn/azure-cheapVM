@@ -26,7 +26,7 @@ Open ScaleSet, Network adapter and connect using RDP.
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
-#### Automated Low Priority with SA
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMariuszFerdyn%2azure-cheapVM%2Fmaster%2FLowPriAzureHibridLicense.json" target="_blank">
+#### Windows Low Priority with SA
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMariuszFerdyn%2azure-cheapVM%2Fmaster%2FWindows2016LowPriorityAzureHibridLicense.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
