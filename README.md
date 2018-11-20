@@ -6,11 +6,17 @@ The setup creates Low Piority VMs in Scale Sets with Persistant Disk. It could b
 **This software comes with no warranty of any kind**.
 
 ## Pricing
+
 How cheap it can be:
+
 VM Size NV6	                      2,38  EUR/h
+
 VM Size NV6 with SA	              1,95  EUR/h
+
 VM Size NV6 Low Piority	          0,56  EUR/h
+
 VM Size NV6 Low Piority with SA	  0,24  UER/h
+
 
 So this project reduces cost from 2,38 EUR to 0,56 EUR or from 1,95 EUR to 0,24 EUR per hour.
 
