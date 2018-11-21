@@ -10,7 +10,7 @@
     },
     "vmSize": {
       "type": "string",
-      "defaultValue": "Standard_B1s",
+      "defaultValue": "Basic_A0",
       "allowedValues": [
       "Standard_A0",
       "Standard_A1",
