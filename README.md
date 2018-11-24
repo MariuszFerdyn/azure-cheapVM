@@ -28,7 +28,7 @@ Open ScaleSet, Network adapter and connect using RDP.
 
 ### II. Automatically Deploy Your Azure VM
 #### Automated Low Priority
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMariuszFerdyn%2Fazure-cheapVM%2Fmaster%2FStandard.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMariuszFerdyn%2Fazure-cheapVM%2Fmaster%2FWindows2016LowPriority.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
